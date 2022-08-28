@@ -40,15 +40,9 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <div align="center">
 </div>
   <div align="center">
-  <img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-06/software%20integrity%20blog.jpg">
+  <img src="https://support.musicgateway.com/wp-content/uploads/2021/05/qa-tester-large.png">
 </div>
 
 
-### My favorite (QA and programming related) quotes: 
-> - “Software testers do not make software; they only make them better.” (Anonymous) 
-> - “Never allow the same bug to bite you twice.” (Steve Maguire)
-> - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
-> - “Talk is cheap. Show me the code.” (Linus Torvalds)
-  
 
 
