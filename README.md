@@ -1,5 +1,6 @@
 ## Hi there!👋
-### My name is Anarbek, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
+### My name is Anarbek, I'm Software QA Automation Engineer from New York, US 
+💻 🌐   Glad to see you here!
 
 #### My LinkedIn profile:<div id="badges">
   <a href="www.linkedin.com/in/anarbekmysaev">
