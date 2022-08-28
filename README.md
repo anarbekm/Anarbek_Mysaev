@@ -8,7 +8,7 @@
 <div align="center">
 </div>
   <div align="center">
-  <img src="[https://realtechexperts.com/wp-content/uploads/2022/01/1-2.jpg]">
+  <img src="https://realtechexperts.com/wp-content/uploads/2022/01/1-2.jpg">
 </div>
   
    ## :hammer_and_wrench: Languages and Tools I use :
