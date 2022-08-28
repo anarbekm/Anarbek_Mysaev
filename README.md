@@ -3,7 +3,7 @@
 💻 🌐   Glad to see you here!
 
 #### My LinkedIn profile:<div id="badges">
-  <a href="www.linkedin.com/in/anarbekmysaev/">
+  <a href="https://www.linkedin.com/in/anarbekmysaev/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div align="center">
